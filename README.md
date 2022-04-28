@@ -18,3 +18,5 @@ Red Jet:
 2. Left Arrow - rotate left
 3. Down Arrow - start moving
 4. Enter - shoot
+
+![Alt text](/Snapshot.png?raw=true "Snapshot of the game")
