@@ -3,16 +3,18 @@
 To run the game:
 1. install JavaFX SDK ver. 11 or newer using this tutorial: https://www.tutorialkart.com/javafx/install-javafx-in-eclipse-ide/
 2. Compile the project and run the Game class.
-3. Play the game using these keys:
+
+
+Play the game using these keys:
 
 Green Jet:
-A - rotate right
-D - rotate left
-W - start moving
-SPACE - shoot
+1. A - rotate right
+2. D - rotate left
+3. W - start moving
+4. PACE - shoot
 
 Red Jet:
-Right Arrow - rotate right
-Left Arrow - rotate left
-Down Arrow - start moving
-Enter - shoot
+1. Right Arrow - rotate right
+2. Left Arrow - rotate left
+3. Down Arrow - start moving
+4. Enter - shoot
