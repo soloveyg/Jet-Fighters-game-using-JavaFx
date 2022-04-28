@@ -11,7 +11,7 @@ Green Jet:
 1. A - rotate right
 2. D - rotate left
 3. W - start moving
-4. PACE - shoot
+4. SPACE - shoot
 
 Red Jet:
 1. Right Arrow - rotate right
