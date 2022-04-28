@@ -1,7 +1,7 @@
 # Jet Fighters game using JavaFx
 
 To run the game:
-1. install JavaFX SDK ver. 11 or newer using this tutorial: https://www.tutorialkart.com/javafx/install-javafx-in-eclipse-ide/
+1. Install JavaFX SDK ver. 11 or newer using this tutorial: https://www.tutorialkart.com/javafx/install-javafx-in-eclipse-ide/
 2. Compile the project and run the Game class.
 
 
